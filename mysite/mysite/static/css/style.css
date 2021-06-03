@@ -1,0 +1,16 @@
+body{
+    background: #5bb;
+}
+.home{
+    display:flex;
+    align-items: flex-start;
+}
+.home img{
+    padding-right: 8px;
+}
+.home .media-body{
+    padding-left: 8px;
+}
+.errorlist{
+color: red;
+}
